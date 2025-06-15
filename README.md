@@ -1,15 +1,6 @@
  Rock Paper Scissors Game
 A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. Users can click on Rock, Paper, or Scissors to play against the computer. The game keeps score and provides feedback on who won each round
 
-📁 Project Structure
-rock-paper-scissors/
-├── index.html         # Main HTML file (UI layout)
-├── style.css          # Styling for the game
-├── script.js          # Game logic and interactivity
-├── rock.png           # Rock image
-├── paper.png          # Paper image
-└── scissors.png        # Scissors image
-
 🎮 How to Play
 Click on Rock, Paper, or Scissors.
 
